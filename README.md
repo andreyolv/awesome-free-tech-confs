@@ -1,3 +1,23 @@
+# Summary
+- [Analytics Engineering](#analytics-engineering)
+- [Cloud](#cloud)
+- [Data Cloud PaaS](#data-cloud-paas)
+- [Data Engineering](#data-engineering)
+- [Data Governance](#data-governance)
+- [Data Streaming](#data-streaming)
+- [Databases](#databases)
+- [DevOps](#devops)
+- [FinOps](#finops)
+- [Machine Learning](#machine-learning)
+- [Network](#network)
+- [Observability](#observability)
+- [Platform Engineering](#platform-engineering)
+- [Security](#security)
+- [Site Reliability Engineering](#site-reliability-engineering)
+- [Software Engineering](#software-engineering)
+- [KCDs (Kubernetes Community Days)](#kcds-kubernetes-community-days)
+- [Event Lists](#event-lists)
+
 # Analytics Engineering
 - [Coalesce | dbt](https://www.youtube.com/@dbt-labs/playlists)
 - [DuckCon](https://www.youtube.com/@duckdb/playlists)
