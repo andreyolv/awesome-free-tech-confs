@@ -94,9 +94,8 @@
 - [Tracing Summit](https://www.youtube.com/@diamonworkgroup9/playlists)
 
 # Platform Engineering
-- [KubeCon](https://www.youtube.com/@cncf/playlists)
+- [KubeCon | GitOpsCon ArgoCon BackstageCon StrimziCon CiliumCon LitmusChaosCon etc..](https://www.youtube.com/@cncf/playlists)
 - [KubeCrash](https://www.youtube.com/@KubeCrash)
-- [Other CNCF 'Con's (GitOpsCon, ArgoCon, BackstageCon, StrimziCon, CiliumCon, LitmusChaosCon, etc)](https://www.youtube.com/@cncf/- playlists)
 - [PlatformCon](https://www.youtube.com/@PlatformEngineering/playlists)
 
 # Security
