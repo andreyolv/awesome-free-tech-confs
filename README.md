@@ -40,6 +40,7 @@
 - [Cloud Native Data Management Day](https://www.youtube.com/@CloudNativeDataManagementDay/playlists)
 - [Confer Conference](https://www.youtube.com/@ConferConf/videos)
 - [Data Council](https://www.youtube.com/@DataCouncil/playlists)
+- [Datanova](https://www.youtube.com/@StarburstData/playlists)
 - [Icerberg Summit](https://www.youtube.com/@ApacheIceberg/playlists)
 - [Ignite Summit](https://www.youtube.com/@GridGainSystems/playlists)
 - [Netflix Data Engineering Summit](https://www.youtube.com/@netflixdata8262/playlists)
