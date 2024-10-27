@@ -143,6 +143,7 @@
 # Software Engineering
 - [apidays](https://www.youtube.com/@apidays/playlists)
 - [EDA Summit](https://www.youtube.com/@EDASummit/playlists)
+- [GoLab](https://www.youtube.com/@golabconference9448/playlists)
 - [GopherCon Europe](https://www.youtube.com/@GopherConEurope/playlists)
 - [GopherCon Latam](https://www.youtube.com/@gopherconlatam/playlists)
 - [GopherCon UK](https://www.youtube.com/@GopherConUK/playlists)
