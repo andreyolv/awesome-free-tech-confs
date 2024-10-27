@@ -122,7 +122,9 @@
 # Security
 - [APISEC|CON](https://www.youtube.com/@apisecu/playlists)
 - [ATT&CKcon](https://www.youtube.com/@mitrecorp/playlists)
+- [Black Hat](https://www.youtube.com/@BlackHatOfficialYT/playlists)
 - [CloudNativeSecurityCon](https://www.youtube.com/@cncf/playlists)
+- [CloudSecNext](https://www.youtube.com/@SANSCloudSecurity/playlists)
 - [DEFCON](https://www.youtube.com/@DEFCONConference/playlists)
 - [DevSecCon](https://www.youtube.com/@DevSecCon/playlists)
 - [OWASP Global AppSec](https://www.youtube.com/@OWASPGLOBAL/playlists)
