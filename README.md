@@ -183,6 +183,21 @@
 - [Kubernetes Community Days Islamabad](https://www.youtube.com/@kcd-isb)
 - [Kubernetes Community Days UK](https://www.youtube.com/@KubernetesCommunityDaysUK)
 
+# DevOpsDays
+- [devops Amsterdam](https://www.youtube.com/@devopsAmsterdam/playlists)
+- [DevOps KC](https://www.youtube.com/@DevOpsKC/playlists)
+- [DevOpsDays Bogotá](https://www.youtube.com/@devopsdaysbogota/playlists)
+- [DevOpsDays Boston](https://www.youtube.com/@devopsdaysboston8526/playlists)
+- [DevOpsDays DFW](https://www.youtube.com/@DevOpsDaysDFW/playlists)
+- [DevOpsDays DC](https://www.youtube.com/@devopsdaysdc4796/playlists)
+- [DevOpsDays Kyiv](https://www.youtube.com/@devopsdayskyiv977/playlists)
+- [DevOpsDays London](https://www.youtube.com/@DevOpsDaysLondon/playlists)
+- [DevOpsDays Philadelphia](https://www.youtube.com/@devopsdaysphiladelphia5538/playlists)
+- [DevOpsDays Raleigh](https://www.youtube.com/@devopsdaysraleigh7250/playlists)
+- [DevOpsDays Seattle](https://www.youtube.com/@devopsdaysseattle5350/playlists)
+- [DevOpsDays Tel Aviv](https://www.youtube.com/@DevOpsDaysTelAviv/playlists)
+- [Devopsdays NYC](https://www.youtube.com/@devopsdaysnyc4226/playlists)
+
 # Event Lists
 - https://confs.tech/
 - https://dev.events/
