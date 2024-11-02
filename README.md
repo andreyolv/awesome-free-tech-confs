@@ -151,6 +151,7 @@
 - [GraphQLConf](https://www.youtube.com/@GraphQLFoundation/playlists)
 - [Great International Developer Summit](https://www.youtube.com/@DeveloperSummit/playlists)
 - [grpConf](https://www.youtube.com/@cncf/playlists)
+- [NDC](https://www.youtube.com/@NDC/playlists)
 - [PyCon US](https://www.youtube.com/@PyConUS/playlists)
 - [Python Brasil](https://www.youtube.com/@pythonbrasiloficial/playlists)
 - [QCon](https://www.youtube.com/@infoq/playlists)
