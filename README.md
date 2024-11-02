@@ -143,11 +143,13 @@
 # Software Engineering
 - [apidays](https://www.youtube.com/@apidays/playlists)
 - [EDA Summit](https://www.youtube.com/@EDASummit/playlists)
+- [EuroPython](https://www.youtube.com/@EuroPythonConference/playlists)
 - [GoLab](https://www.youtube.com/@golabconference9448/playlists)
 - [GopherCon Europe](https://www.youtube.com/@GopherConEurope/playlists)
 - [GopherCon Latam](https://www.youtube.com/@gopherconlatam/playlists)
 - [GopherCon UK](https://www.youtube.com/@GopherConUK/playlists)
 - [GraphQLConf](https://www.youtube.com/@GraphQLFoundation/playlists)
+- [Great International Developer Summit](https://www.youtube.com/@DeveloperSummit/playlists)
 - [grpConf](https://www.youtube.com/@cncf/playlists)
 - [PyCon US](https://www.youtube.com/@PyConUS/playlists)
 - [Python Brasil](https://www.youtube.com/@pythonbrasiloficial/playlists)
