@@ -183,6 +183,7 @@
 
 # Software Engineering
 - [apidays](https://www.youtube.com/@apidays/playlists)
+- [Devoxx](https://www.youtube.com/@DevoxxForever/videos)
 - [EDA Summit](https://www.youtube.com/@EDASummit/playlists)
 - [EuroPython](https://www.youtube.com/@EuroPythonConference/playlists)
 - [GoLab](https://www.youtube.com/@golabconference9448/playlists)
