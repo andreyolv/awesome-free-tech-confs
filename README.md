@@ -183,6 +183,7 @@
 
 # Software Engineering
 - [apidays](https://www.youtube.com/@apidays/playlists)
+- [DevBcn: The Barcelona Developers Conference](https://www.youtube.com/@DevBcn/playlists)
 - [Devoxx](https://www.youtube.com/@DevoxxForever/playlists)
 - [EDA Summit](https://www.youtube.com/@EDASummit/playlists)
 - [EuroPython](https://www.youtube.com/@EuroPythonConference/playlists)
