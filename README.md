@@ -59,7 +59,8 @@
 - [Druid Summit](https://www.youtube.com/@Implydata/playlists) 
 - [Flink Forward](https://www.flink-forward.org/events)  
 - [Kafka Summit](https://www.kafka-summit.org/past-events)  
-- [Real-Time Analytics Summit](https://www.youtube.com/@StarTree/playlists)  
+- [Real-Time Analytics Summit](https://www.youtube.com/@StarTree/playlists)
+- [Repanda StreamFest](https://www.youtube.com/@RedpandaData/playlists)
 
 # Databases
 - [Distributed SQL Summit](https://www.youtube.com/@YugabyteDB/playlists)
@@ -201,6 +202,8 @@
 - [RabbitMQ Summit](https://www.youtube.com/@CodeSync/playlists)
 - [Software Architecture Conference](https://www.youtube.com/@CSharpDotTV/playlists)
 - [TestFlix](https://www.youtube.com/@TheTestTribe/playlists)
+- [WasmCon](https://www.youtube.com/@LinuxfoundationOrg/playlists)
+- [WASM I/O](https://www.youtube.com/@wasmio/playlists)
 
 # Event Lists
 - https://confs.tech/
