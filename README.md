@@ -183,25 +183,33 @@
 - [VeeamON](https://www.youtube.com/@veeam/playlists)
 
 # Software Engineering
-- [apidays](https://www.youtube.com/@apidays/playlists)
 - [DevBcn: The Barcelona Developers Conference](https://www.youtube.com/@DevBcn/playlists)
 - [Devoxx](https://www.youtube.com/@DevoxxForever/playlists)
+- [Great International Developer Summit](https://www.youtube.com/@DeveloperSummit/playlists)
+- [NDC](https://www.youtube.com/@NDC/playlists)
+- [QCon](https://www.youtube.com/@infoq/playlists)
+- [Software Architecture Conference](https://www.youtube.com/@CSharpDotTV/playlists)
+- [TestFlix](https://www.youtube.com/@TheTestTribe/playlists)
+
+## Backend
+- [apidays](https://www.youtube.com/@apidays/playlists)
 - [EDA Summit](https://www.youtube.com/@EDASummit/playlists)
-- [EuroPython](https://www.youtube.com/@EuroPythonConference/playlists)
+- [GraphQLConf](https://www.youtube.com/@GraphQLFoundation/playlists)
+- [grpConf](https://www.youtube.com/@cncf/playlists)
+- [RabbitMQ Summit](https://www.youtube.com/@CodeSync/playlists)
+
+## Golang
 - [GoLab](https://www.youtube.com/@golabconference9448/playlists)
 - [GopherCon Europe](https://www.youtube.com/@GopherConEurope/playlists)
 - [GopherCon Latam](https://www.youtube.com/@gopherconlatam/playlists)
 - [GopherCon UK](https://www.youtube.com/@GopherConUK/playlists)
-- [GraphQLConf](https://www.youtube.com/@GraphQLFoundation/playlists)
-- [Great International Developer Summit](https://www.youtube.com/@DeveloperSummit/playlists)
-- [grpConf](https://www.youtube.com/@cncf/playlists)
-- [NDC](https://www.youtube.com/@NDC/playlists)
+
+## Python
+- [EuroPython](https://www.youtube.com/@EuroPythonConference/playlists)
 - [PyCon US](https://www.youtube.com/@PyConUS/playlists)
 - [Python Brasil](https://www.youtube.com/@pythonbrasiloficial/playlists)
-- [QCon](https://www.youtube.com/@infoq/playlists)
-- [RabbitMQ Summit](https://www.youtube.com/@CodeSync/playlists)
-- [Software Architecture Conference](https://www.youtube.com/@CSharpDotTV/playlists)
-- [TestFlix](https://www.youtube.com/@TheTestTribe/playlists)
+
+## WebAssembly
 - [WasmCon](https://www.youtube.com/@LinuxfoundationOrg/playlists)
 - [WASM I/O](https://www.youtube.com/@wasmio/playlists)
 
