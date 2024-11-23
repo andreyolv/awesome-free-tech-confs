@@ -26,6 +26,7 @@
 - [AWS re:Invent & re:Inforce](https://www.youtube.com/@AWSEventsChannel/playlists)
 - [Google Cloud Next](https://cloud.withgoogle.com/next)
 - [Microsoft Build](https://www.youtube.com/@MicrosoftDeveloper/playlists)
+- [Microsoft Ignite](https://www.youtube.com/@events_msft/playlists)
 
 # Data Cloud PaaS
 - [Data+AI Summit | Databricks](https://www.youtube.com/@Databricks/playlists)
