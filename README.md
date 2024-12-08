@@ -18,7 +18,7 @@
 - [Event Lists](#event-lists)
 
 # Analytics Engineering
-- [Coalesce | dbt](https://www.youtube.com/@dbt-labs/playlists)
+- [Coalesce](https://www.youtube.com/@dbt-labs/playlists)
 - [DuckCon](https://www.youtube.com/@duckdb/playlists)
 - [MDS Fest](https://www.youtube.com/@secoda/playlists)
 
@@ -62,6 +62,7 @@
 - [Kafka Summit](https://www.kafka-summit.org/past-events)  
 - [Real-Time Analytics Summit](https://www.youtube.com/@StarTree/playlists)
 - [Repanda StreamFest](https://www.youtube.com/@RedpandaData/playlists)
+- [RethinkCon](https://www.youtube.com/@SynadiaCommunications/playlists)
 
 # Databases
 - [Distributed SQL Summit](https://www.youtube.com/@YugabyteDB/playlists)
