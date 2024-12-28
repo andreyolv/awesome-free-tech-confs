@@ -114,6 +114,7 @@
 - [FinOps Summit](https://www.youtube.com/@finopsfoundation/playlists)
 
 # Machine Learning
+- [Kubeflow Summit](https://www.youtube.com/@Kubeflow/playlists)
 - [MLOps World](https://www.youtube.com/@mlopsworldmachinelearningi9769/playlists)
 - [MLCon](https://www.youtube.com/@machinelearningconference5512/playlists)
 - [Open Data Science](https://www.youtube.com/@OpenDataScienceCon/playlists)
@@ -210,6 +211,7 @@
 - [EuroPython](https://www.youtube.com/@EuroPythonConference/playlists)
 - [PyCon US](https://www.youtube.com/@PyConUS/playlists)
 - [Python Brasil](https://www.youtube.com/@pythonbrasiloficial/playlists)
+- [SF Python](https://www.youtube.com/@SFPython/playlists)
 
 ## WebAssembly
 - [WasmCon](https://www.youtube.com/@LinuxfoundationOrg/playlists)
